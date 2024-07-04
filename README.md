@@ -112,10 +112,7 @@ Check out my complete Google Cloud profile and explore more about my achievement
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rahul-Sahani04&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-<!--
-<h3 align="left"> 🥇 My Digital Badges!</h3>
-  [![An image of @shemademeapoetry's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shemademeapoetry)](https://holopin.io/@shemademeapoetry)
--->
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -127,6 +124,3 @@ Check out my complete Google Cloud profile and explore more about my achievement
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rahul-Sahani04&icon=0&color=6)](https://visitcount.itsvg.in)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
