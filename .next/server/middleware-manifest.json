@@ -1,0 +1,29 @@
+{
+  "version": 3,
+  "middleware": {},
+  "functions": {
+    "/api/incr": {
+      "files": [
+        "prerender-manifest.js",
+        "server/edge-runtime-webpack.js",
+        "server/pages/api/incr.js"
+      ],
+      "name": "pages/api/incr",
+      "page": "/api/incr",
+      "matchers": [
+        {
+          "regexp": "^/api/incr$",
+          "originalSource": "/api/incr"
+        }
+      ],
+      "wasm": [],
+      "assets": [],
+      "environments": {
+        "previewModeId": "e0f3f232a28bd3c4529a1bdd4cb99e13",
+        "previewModeSigningKey": "472b1e2df495030ded9ffe3f7fc95ebb7ccf5d775ec0e35ed307a0b94441bde3",
+        "previewModeEncryptionKey": "dcbd63227679b66cfe8db9af10eee7273f70164efc7622f7914c9cd54ff1e7e7"
+      }
+    }
+  },
+  "sortedMiddleware": []
+}
